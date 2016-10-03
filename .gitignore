@@ -1,3 +1,9 @@
+## macOS compatibility
+.DS_Store
+
+## emacs compatibility
+*~
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
